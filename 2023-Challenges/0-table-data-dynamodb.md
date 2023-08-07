@@ -17,7 +17,7 @@
 # Once table created, cross check in AWS UI
 
 # Check the python version
-# python3 --version
+    $ python3 --version
     $ Python 3.11.3
 
 # Install boto3 
