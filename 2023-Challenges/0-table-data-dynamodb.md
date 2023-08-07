@@ -55,7 +55,7 @@ if __name__ == "__main__":
 # Cross check the table contents via CLI
     $ aws dynamodb scan --table-name Books
 
-# Delete DynamoDB Table
+# Delete DynamoDB Table because it incurs an additional cost
     $ aws dynamodb delete-table --table-name Books
 
 <!-- END  -->
