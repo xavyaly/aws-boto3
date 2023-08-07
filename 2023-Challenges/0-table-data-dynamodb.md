@@ -2,6 +2,10 @@
 
 # Configure aws cli -> 
     $ aws configure 
+    AWS Access Key ID [****************5V7G]: 
+    AWS Secret Access Key [****************MF1Y]: 
+    Default region name [us-east-2]: 
+    Default output format [json]: 
 
 # Create a DynamoDB Table
     aws dynamodb create-table \
