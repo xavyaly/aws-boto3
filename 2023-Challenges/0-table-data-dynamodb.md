@@ -18,7 +18,7 @@
 
 # Check the python version
     $ python3 --version
-    $ Python 3.11.3
+    Python 3.11.3
 
 # Install boto3 
     $ pip3 install boto3
