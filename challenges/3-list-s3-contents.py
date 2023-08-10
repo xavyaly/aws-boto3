@@ -23,3 +23,13 @@ def list_bucket_contents(bucket):
 # Example usage
 existing_bucket_name = 'unique-bucket-09082023'
 list_bucket_contents(existing_bucket_name)
+
+
+# Execution Output
+
+# $ python3 3-list-s3-contents.py 
+# Objects in bucket 'unique-bucket-09082023':
+#  - file1.txt
+#  - file2.jpg
+#  - file2.png
+#  - file3.pdf
