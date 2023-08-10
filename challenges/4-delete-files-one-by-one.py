@@ -26,3 +26,14 @@ def delete_bucket_contents(bucket):
 # Example usage
 existing_bucket_name = 'unique-bucket-09082023'
 delete_bucket_contents(existing_bucket_name)
+
+
+# Execution Output
+
+# $ python3 4-delete-file-one-by-one.py 
+# Deleting objects in bucket 'unique-bucket-09082023':
+#  - Deleted: file1.txt
+#  - Deleted: file2.jpg
+#  - Deleted: file2.png
+#  - Deleted: file3.pdf
+# All objects deleted.
